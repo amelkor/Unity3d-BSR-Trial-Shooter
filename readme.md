@@ -6,18 +6,21 @@
 # BSR Trial Shooter
 #### This repository contains a set of assets and issues to get started with Unity3d simple FPS game development.
 ## What is this for?
+- This the template to quickly get started with experimenting on a Unity3d simple FPS game
 - This your side project if you're eager to put any amount of effort to a game development process
 - This is your place to follow in case you got hoocked by the pitched artwork above and below
 - This is your trial ground if you've been invited to complete a task as a basic skill checking
 - This is to collect and organize some assets which are not prohibited for sharing
 
-## Prequisites
+## Getting started
 These tools are required to get started:
 - Unity3d 2020.1.17 [Download](https://unity3d.com/ru/get-unity/download) | [Unity guide](https://docs.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/getting-started-with-visual-studio-tools-for-unity?pivots=windows)
 - _Option 1:_ Visual Studio 2019 Community (for programmers) (free) [Download](https://visualstudio.microsoft.com/vs/community/)
 - _Option 2:_ JetBrains Rider (for programmers) (free trial) [Download](https://www.jetbrains.com/rider/)  | [Unity guide](https://www.jetbrains.com/help/rider/Unity.html)
 - _Option 3:_ VS Code (for programmers) (free) [Download](https://code.visualstudio.com/download) | [Unity guide](https://code.visualstudio.com/docs/other/unity)
 - Blender 2.91 (for artists) (free) [Download](https://www.blender.org/download)
+
+Fork, clone, or simply download the repository to start developing.
 
 ## Conventions
 The following must be respected for contributions:
@@ -28,11 +31,13 @@ The following must be respected for contributions:
 ## Project description
 The project is set up for practicing game development processes. The features are distributed into separated tasks with description of what work needs to be performed.
 
+>See the `initial-blank` branch in case you need a clean initial version of this repository.
+
 The game itself is a First Person Shooter with common FPS mechanics.
 
 ![Weapons overview](!readme/img/weapons-overview.jpg)
 
-The repository initially comes with project strucure organized and basic artwork added.
+The repository initially comes with project structure organized and basic artwork added.
 
 ![Project hierarchy](!readme/img/project-hierarchy.jpg)
 
@@ -42,8 +47,6 @@ There are two scenes included:
 
 ## Contributing
 Feel free to add an artwork and documentation if you are not into programming. If you're not able to code but want to give a try then create an issue or go to Discussions and describe what you'd up to. Poposals are also welcome. If you're able to code then go for it. Also do not hesistate sharing or leaving a comment.
-
-See the `initial-blank` branch in case you need a clean initial version of this repository.
 
 ## Requesting additional atrwork
 Additional artwork assets such as models and textures could be created by the repository owners if requested. Create an issue and describe what is needed.
